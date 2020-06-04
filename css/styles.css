@@ -131,7 +131,6 @@ body {
 }
 
 .Features-dicription {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -164,7 +163,6 @@ body {
 }
 
 .occupations {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -184,7 +182,6 @@ body {
 
 .address {
   color: var(--primary-white-color);
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -193,7 +190,6 @@ body {
 
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -216,7 +212,6 @@ body {
 
 .Developed {
   color: rgba(255, 255, 255, 0.4);
-  font-weight: 400;
   font-size: 12px;
   line-height: 2;
   letter-spacing: 0.03em;
@@ -229,7 +224,6 @@ body {
 /*  portfolio-filters */
 
 .filters-imem {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
@@ -253,7 +247,6 @@ body {
 
 .projects-type {
   color: var(--primary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
@@ -264,7 +257,6 @@ body {
   height: 168px;
   background-color: var(--accent-color);
   color: var(--primary-white-color);
-  font-weight: 400;
   font-size: 18px;
   line-height: 1.56;
   letter-spacing: 0.03em;
